@@ -19,7 +19,7 @@ Run db/schema.sql in the terminal to activate the database and then do "npm run 
 Once the server has been accessed there are various ways to view and interpolate the data. Specific seeded data can be accessed through the links /api/products, /api/categories, and /api/tags. Also, Put, Post, and Delete can be implemented to alter the data.
 
 Please see the walkthrough video here:
- <iframe src="https://drive.google.com/file/d/1J42RFARc_vWb4-8vcZOHNPEFkeiuwH85/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1J42RFARc_vWb4-8vcZOHNPEFkeiuwH85/view
 
 ## Tests
 To test the e-commerce application, you will access through the Insomnia application and run the link below:
